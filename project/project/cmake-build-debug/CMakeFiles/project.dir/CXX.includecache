@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nastyusha/Рабочий стол/project/animal.h
+beast.h
+/home/nastyusha/Рабочий стол/project/beast.h
+fish.h
+/home/nastyusha/Рабочий стол/project/fish.h
+bird.h
+/home/nastyusha/Рабочий стол/project/bird.h
+string.h
+/home/nastyusha/Рабочий стол/project/string.h
+
+/home/nastyusha/Рабочий стол/project/beast.h
+stdio.h
+-
+rnd.h
+/home/nastyusha/Рабочий стол/project/rnd.h
+
+/home/nastyusha/Рабочий стол/project/bird.h
+stdio.h
+-
+rnd.h
+/home/nastyusha/Рабочий стол/project/rnd.h
+stdbool.h
+/home/nastyusha/Рабочий стол/project/stdbool.h
+
+/home/nastyusha/Рабочий стол/project/container.h
+animal.h
+/home/nastyusha/Рабочий стол/project/animal.h
+
+/home/nastyusha/Рабочий стол/project/fish.h
+stdio.h
+-
+rnd.h
+/home/nastyusha/Рабочий стол/project/rnd.h
+
+/home/nastyusha/Рабочий стол/project/main.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+animal.h
+/home/nastyusha/Рабочий стол/project/animal.h
+container.h
+/home/nastyusha/Рабочий стол/project/container.h
+
+/home/nastyusha/Рабочий стол/project/rnd.h
+stdlib.h
+/home/nastyusha/Рабочий стол/project/stdlib.h
+string.h
+/home/nastyusha/Рабочий стол/project/string.h
+

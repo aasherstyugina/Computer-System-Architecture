@@ -1,0 +1,20 @@
+Container contains 8 elements.
+0 : It is a fish: name = crucian, weight = 450, area = RIVER, function result = 1.646667.
+1 : It is a bird: name = duck, weight = 780, migration = TRUE, function result = 0.542308.
+2 : It is a bird: name = goose, weight = 660, migration = TRUE, function result = 0.819697.
+3 : It is a beast: name = sheep, weight = 3400, type = HERBIVORE, function result = 0.156765.
+4 : It is a fish: name = tuna, weight = 780, area = SEA, function result = 0.564103.
+5 : It is a beast: name = wolf, weight = 5400, type = PREDATOR, function result = 0.081481.
+6 : It is a fish: name = ide, weight = 300, area = LAKE, function result = 1.020000.
+7 : It is a bird: name = swan, weight = 900, migration = TRUE, function result = 0.490000.
+
+Sorted container : 
+Container contains 8 elements.
+0 : It is a fish: name = crucian, weight = 450, area = RIVER, function result = 1.646667.
+1 : It is a fish: name = ide, weight = 300, area = LAKE, function result = 1.020000.
+2 : It is a bird: name = goose, weight = 660, migration = TRUE, function result = 0.819697.
+3 : It is a fish: name = tuna, weight = 780, area = SEA, function result = 0.564103.
+4 : It is a bird: name = duck, weight = 780, migration = TRUE, function result = 0.542308.
+5 : It is a bird: name = swan, weight = 900, migration = TRUE, function result = 0.490000.
+6 : It is a beast: name = sheep, weight = 3400, type = HERBIVORE, function result = 0.156765.
+7 : It is a beast: name = wolf, weight = 5400, type = PREDATOR, function result = 0.081481.
