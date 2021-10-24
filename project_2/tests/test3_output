@@ -1,0 +1,32 @@
+Container contains 14 elements.
+0 : It is a bird: name = martin, weight = 120, migration = TRUE, function result = 5.425000.
+1 : It is a bird: name = dove, weight = 300, migration = FALSE, function result = 1.433333.
+2 : It is a beast: name = elephant, weight = 9800, type = HERBIVORE, function result = 0.086633.
+3 : It is a beast: name = lion, weight = 7800, type = PREDATOR, function result = 0.055641.
+4 : It is a bird: name = owl, weight = 450, migration = FALSE, function result = 0.751111.
+5 : It is a fish: name = carp, weight = 340, area = RIVER, function result = 1.241176.
+6 : It is a beast: name = bear, weight = 9600, type = PREDATOR, function result = 0.042708.
+7 : It is a bird: name = raven, weight = 200, migration = FALSE, function result = 2.700000.
+8 : It is a bird: name = goldfinch, weight = 140, migration = FALSE, function result = 5.985714.
+9 : It is a bird: name = bullfinch, weight = 160, migration = FALSE, function result = 5.293750.
+10 : It is a fish: name = dorado, weight = 430, area = SEA, function result = 1.472093.
+11 : It is a bird: name = sparrow, weight = 60, migration = FALSE, function result = 13.033333.
+12 : It is a beast: name = goat, weight = 2400, type = HERBIVORE, function result = 0.177917.
+13 : It is a beast: name = frog, weight = 250, type = INSECTIVOROUS, function result = 1.720000.
+
+Sorted container : 
+Container contains 14 elements.
+0 : It is a bird: name = sparrow, weight = 60, migration = FALSE, function result = 13.033333.
+1 : It is a bird: name = goldfinch, weight = 140, migration = FALSE, function result = 5.985714.
+2 : It is a bird: name = martin, weight = 120, migration = TRUE, function result = 5.425000.
+3 : It is a bird: name = bullfinch, weight = 160, migration = FALSE, function result = 5.293750.
+4 : It is a bird: name = raven, weight = 200, migration = FALSE, function result = 2.700000.
+5 : It is a beast: name = frog, weight = 250, type = INSECTIVOROUS, function result = 1.720000.
+6 : It is a fish: name = dorado, weight = 430, area = SEA, function result = 1.472093.
+7 : It is a bird: name = dove, weight = 300, migration = FALSE, function result = 1.433333.
+8 : It is a fish: name = carp, weight = 340, area = RIVER, function result = 1.241176.
+9 : It is a bird: name = owl, weight = 450, migration = FALSE, function result = 0.751111.
+10 : It is a beast: name = goat, weight = 2400, type = HERBIVORE, function result = 0.177917.
+11 : It is a beast: name = elephant, weight = 9800, type = HERBIVORE, function result = 0.086633.
+12 : It is a beast: name = lion, weight = 7800, type = PREDATOR, function result = 0.055641.
+13 : It is a beast: name = bear, weight = 9600, type = PREDATOR, function result = 0.042708.
