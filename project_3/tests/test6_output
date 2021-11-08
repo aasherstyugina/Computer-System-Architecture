@@ -1,0 +1,45 @@
+Container contains 20 elements.
+ 0 : It is a bird: name = dove, weight = 300, migration = False, function result = 1.4333333333333333.
+ 1 : It is a beast: name = elephant, weight = 9800, type = HERBIVORE, function result = 0.08663265306122449.
+ 2 : It is a beast: name = lion, weight = 7800, type = PREDATOR, function result = 0.05564102564102564.
+ 3 : It is a bird: name = owl, weight = 450, migration = False, function result = 0.7511111111111111.
+ 4 : It is a fish: name = carp, weight = 340, area = RIVER, function result = 1.2411764705882353.
+ 5 : It is a beast: name = bear, weight = 9600, type = PREDATOR, function result = 0.042708333333333334.
+ 6 : It is a bird: name = raven, weight = 200, migration = False, function result = 2.7.
+ 7 : It is a bird: name = goldfinch, weight = 140, migration = False, function result = 6.728571428571429.
+ 8 : It is a bird: name = bullfinch, weight = 160, migration = False, function result = 5.94375.
+ 9 : It is a fish: name = dorado, weight = 430, area = SEA, function result = 1.472093023255814.
+ 10 : It is a bird: name = sparrow, weight = 60, migration = False, function result = 13.033333333333333.
+ 11 : It is a beast: name = goat, weight = 2400, type = HERBIVORE, function result = 0.17791666666666667.
+ 12 : It is a beast: name = frog, weight = 250, type = INSECTIVOROUS, function result = 1.72.
+ 13 : It is a beast: name = tiger, weight = 8900, type = PREDATOR, function result = 0.06056179775280899.
+ 14 : It is a fish: name = perch, weight = 230, area = RIVER, function result = 2.3043478260869565.
+ 15 : It is a bird: name = swift, weight = 430, migration = True, function result = 1.2953488372093023.
+ 16 : It is a fish: name = halibut, weight = 400, area = SEA, function result = 1.8625.
+ 17 : It is a fish: name = shark, weight = 3200, area = SEA, function result = 0.1678125.
+ 18 : It is a bird: name = nightingale, weight = 230, migration = True, function result = 5.052173913043478.
+ 19 : It is a bird: name = rook, weight = 340, migration = True, function result = 1.3029411764705883.
+ 
+Sorted container :
+Container contains 20 elements.
+ 0 : It is a bird: name = sparrow, weight = 60, migration = False, function result = 13.033333333333333.
+ 1 : It is a bird: name = goldfinch, weight = 140, migration = False, function result = 6.728571428571429.
+ 2 : It is a bird: name = bullfinch, weight = 160, migration = False, function result = 5.94375.
+ 3 : It is a bird: name = nightingale, weight = 230, migration = True, function result = 5.052173913043478.
+ 4 : It is a bird: name = raven, weight = 200, migration = False, function result = 2.7.
+ 5 : It is a fish: name = perch, weight = 230, area = RIVER, function result = 2.3043478260869565.
+ 6 : It is a fish: name = halibut, weight = 400, area = SEA, function result = 1.8625.
+ 7 : It is a beast: name = frog, weight = 250, type = INSECTIVOROUS, function result = 1.72.
+ 8 : It is a fish: name = dorado, weight = 430, area = SEA, function result = 1.472093023255814.
+ 9 : It is a bird: name = dove, weight = 300, migration = False, function result = 1.4333333333333333.
+ 10 : It is a bird: name = rook, weight = 340, migration = True, function result = 1.3029411764705883.
+ 11 : It is a bird: name = swift, weight = 430, migration = True, function result = 1.2953488372093023.
+ 12 : It is a fish: name = carp, weight = 340, area = RIVER, function result = 1.2411764705882353.
+ 13 : It is a bird: name = owl, weight = 450, migration = False, function result = 0.7511111111111111.
+ 14 : It is a beast: name = goat, weight = 2400, type = HERBIVORE, function result = 0.17791666666666667.
+ 15 : It is a fish: name = shark, weight = 3200, area = SEA, function result = 0.1678125.
+ 16 : It is a beast: name = elephant, weight = 9800, type = HERBIVORE, function result = 0.08663265306122449.
+ 17 : It is a beast: name = tiger, weight = 8900, type = PREDATOR, function result = 0.06056179775280899.
+ 18 : It is a beast: name = lion, weight = 7800, type = PREDATOR, function result = 0.05564102564102564.
+ 19 : It is a beast: name = bear, weight = 9600, type = PREDATOR, function result = 0.042708333333333334.
+ 

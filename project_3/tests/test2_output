@@ -1,0 +1,13 @@
+Container contains 4 elements.
+ 0 : It is a fish: name = zander, weight = 600, area = RIVER, function result = 1.0733333333333333.
+ 1 : It is a beast: name = cow, weight = 6700, type = HERBIVORE, function result = 0.0491044776119403.
+ 2 : It is a beast: name = cat, weight = 1000, type = PREDATOR, function result = 0.312.
+ 3 : It is a fish: name = salmon, weight = 600, area = SEA, function result = 1.0833333333333333.
+ 
+Sorted container :
+Container contains 4 elements.
+ 0 : It is a fish: name = salmon, weight = 600, area = SEA, function result = 1.0833333333333333.
+ 1 : It is a fish: name = zander, weight = 600, area = RIVER, function result = 1.0733333333333333.
+ 2 : It is a beast: name = cat, weight = 1000, type = PREDATOR, function result = 0.312.
+ 3 : It is a beast: name = cow, weight = 6700, type = HERBIVORE, function result = 0.0491044776119403.
+ 

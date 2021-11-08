@@ -1,0 +1,25 @@
+Container contains 10 elements.
+ 0 : It is a beast: name = sheep, weight = 3400, type = HERBIVORE, function result = 0.15676470588235294.
+ 1 : It is a fish: name = tuna, weight = 780, area = SEA, function result = 0.5641025641025641.
+ 2 : It is a beast: name = wolf, weight = 5400, type = PREDATOR, function result = 0.08148148148148149.
+ 3 : It is a fish: name = ide, weight = 300, area = LAKE, function result = 1.02.
+ 4 : It is a bird: name = swan, weight = 900, migration = True, function result = 0.49.
+ 5 : It is a fish: name = zander, weight = 600, area = RIVER, function result = 1.0733333333333333.
+ 6 : It is a beast: name = cow, weight = 6700, type = HERBIVORE, function result = 0.0491044776119403.
+ 7 : It is a beast: name = cat, weight = 1000, type = PREDATOR, function result = 0.312.
+ 8 : It is a fish: name = salmon, weight = 600, area = SEA, function result = 1.0833333333333333.
+ 9 : It is a bird: name = bullfinch, weight = 160, migration = False, function result = 5.94375.
+ 
+Sorted container :
+Container contains 10 elements.
+ 0 : It is a bird: name = bullfinch, weight = 160, migration = False, function result = 5.94375.
+ 1 : It is a fish: name = salmon, weight = 600, area = SEA, function result = 1.0833333333333333.
+ 2 : It is a fish: name = zander, weight = 600, area = RIVER, function result = 1.0733333333333333.
+ 3 : It is a fish: name = ide, weight = 300, area = LAKE, function result = 1.02.
+ 4 : It is a fish: name = tuna, weight = 780, area = SEA, function result = 0.5641025641025641.
+ 5 : It is a bird: name = swan, weight = 900, migration = True, function result = 0.49.
+ 6 : It is a beast: name = cat, weight = 1000, type = PREDATOR, function result = 0.312.
+ 7 : It is a beast: name = sheep, weight = 3400, type = HERBIVORE, function result = 0.15676470588235294.
+ 8 : It is a beast: name = wolf, weight = 5400, type = PREDATOR, function result = 0.08148148148148149.
+ 9 : It is a beast: name = cow, weight = 6700, type = HERBIVORE, function result = 0.0491044776119403.
+ 

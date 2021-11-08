@@ -1,0 +1,19 @@
+Container contains 7 elements.
+ 0 : It is a beast: name = tiger, weight = 8900, type = PREDATOR, function result = 0.06056179775280899.
+ 1 : It is a fish: name = perch, weight = 230, area = RIVER, function result = 2.3043478260869565.
+ 2 : It is a bird: name = swift, weight = 430, migration = True, function result = 1.2953488372093023.
+ 3 : It is a fish: name = halibut, weight = 400, area = SEA, function result = 1.8625.
+ 4 : It is a fish: name = shark, weight = 3200, area = SEA, function result = 0.1678125.
+ 5 : It is a bird: name = nightingale, weight = 230, migration = True, function result = 5.052173913043478.
+ 6 : It is a bird: name = rook, weight = 340, migration = True, function result = 1.3029411764705883.
+ 
+Sorted container :
+Container contains 7 elements.
+ 0 : It is a bird: name = nightingale, weight = 230, migration = True, function result = 5.052173913043478.
+ 1 : It is a fish: name = perch, weight = 230, area = RIVER, function result = 2.3043478260869565.
+ 2 : It is a fish: name = halibut, weight = 400, area = SEA, function result = 1.8625.
+ 3 : It is a bird: name = rook, weight = 340, migration = True, function result = 1.3029411764705883.
+ 4 : It is a bird: name = swift, weight = 430, migration = True, function result = 1.2953488372093023.
+ 5 : It is a fish: name = shark, weight = 3200, area = SEA, function result = 0.1678125.
+ 6 : It is a beast: name = tiger, weight = 8900, type = PREDATOR, function result = 0.06056179775280899.
+ 
