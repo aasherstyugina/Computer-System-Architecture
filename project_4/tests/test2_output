@@ -1,0 +1,12 @@
+Container contains 4 elements.
+0 : It is a fish: name = zander, weight = 600, area = RIVER, function result = 0.715000.
+1 : It is a beast: name = cow, weight = 6700, type = HERBIVORE, function result = 0.049104.
+2 : It is a beast: name = cat, weight = 1000, type = PREDATOR, function result = 0.312000.
+3 : It is a fish: name = salmon, weight = 600, area = SEA, function result = 0.715000.
+
+Sorted container : 
+Container contains 4 elements.
+0 : It is a fish: name = zander, weight = 600, area = RIVER, function result = 0.715000.
+1 : It is a fish: name = salmon, weight = 600, area = SEA, function result = 0.715000.
+2 : It is a beast: name = cat, weight = 1000, type = PREDATOR, function result = 0.312000.
+3 : It is a beast: name = cow, weight = 6700, type = HERBIVORE, function result = 0.049104.

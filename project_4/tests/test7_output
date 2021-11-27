@@ -1,0 +1,24 @@
+Container contains 10 elements.
+0 : It is a beast: name = sheep, weight = 3400, type = HERBIVORE, function result = 0.123824.
+1 : It is a fish: name = tuna, weight = 780, area = SEA, function result = 0.564103.
+2 : It is a beast: name = wolf, weight = 5400, type = PREDATOR, function result = 0.081481.
+3 : It is a fish: name = ide, weight = 300, area = LAKE, function result = 1.020000.
+4 : It is a bird: name = swan, weight = 900, migration = TRUE, function result = 0.490000.
+5 : It is a fish: name = zander, weight = 600, area = RIVER, function result = 0.715000.
+6 : It is a beast: name = cow, weight = 6700, type = HERBIVORE, function result = 0.049104.
+7 : It is a beast: name = cat, weight = 1000, type = PREDATOR, function result = 0.312000.
+8 : It is a fish: name = salmon, weight = 600, area = SEA, function result = 0.715000.
+9 : It is a bird: name = bullfinch, weight = 160, migration = FALSE, function result = 2.693750.
+
+Sorted container : 
+Container contains 10 elements.
+0 : It is a bird: name = bullfinch, weight = 160, migration = FALSE, function result = 2.693750.
+1 : It is a fish: name = ide, weight = 300, area = LAKE, function result = 1.020000.
+2 : It is a fish: name = zander, weight = 600, area = RIVER, function result = 0.715000.
+3 : It is a fish: name = salmon, weight = 600, area = SEA, function result = 0.715000.
+4 : It is a fish: name = tuna, weight = 780, area = SEA, function result = 0.564103.
+5 : It is a bird: name = swan, weight = 900, migration = TRUE, function result = 0.490000.
+6 : It is a beast: name = cat, weight = 1000, type = PREDATOR, function result = 0.312000.
+7 : It is a beast: name = sheep, weight = 3400, type = HERBIVORE, function result = 0.123824.
+8 : It is a beast: name = wolf, weight = 5400, type = PREDATOR, function result = 0.081481.
+9 : It is a beast: name = cow, weight = 6700, type = HERBIVORE, function result = 0.049104.
